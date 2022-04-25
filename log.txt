@@ -1,0 +1,25 @@
+Begin of execution(String com.fathi.aop.Account.dispose(float))
+End of execution(String com.fathi.aop.Account.dispose(float))
+Success End of execution(String com.fathi.aop.Account.dispose(float))
+Begin of execution(String com.fathi.aop.Account.withdraw(float))
+End of execution(String com.fathi.aop.Account.withdraw(float))
+Success End of execution(String com.fathi.aop.Account.withdraw(float))
+Begin of execution(String com.fathi.aop.Account.dispose(float))
+End of execution(String com.fathi.aop.Account.dispose(float))
+Success End of execution(String com.fathi.aop.Account.dispose(float))
+Begin of execution(String com.fathi.aop.Account.withdraw(float))
+End of execution(String com.fathi.aop.Account.withdraw(float))
+Success End of execution(String com.fathi.aop.Account.withdraw(float))
+Begin of execution(String com.fathi.aop.Account.withdraw(float))
+End of execution(String com.fathi.aop.Account.withdraw(float))
+Fail of execution(String com.fathi.aop.Account.withdraw(float))
+Method throwed an exception => You can't withdraw less than 1000 DA
+Begin of execution(String com.fathi.aop.Account.withdraw(float))
+End of execution(String com.fathi.aop.Account.withdraw(float))
+Fail of execution(String com.fathi.aop.Account.withdraw(float))
+Method throwed an exception => You can't withdraw less than 1000 DA
+You can't dispose less than 1000 DA
+Begin of execution(String com.fathi.aop.Account.dispose(float))
+End of execution(String com.fathi.aop.Account.dispose(float))
+Fail of execution(String com.fathi.aop.Account.dispose(float))
+Method throwed an exception => You can't dispose less than 1000 DA
